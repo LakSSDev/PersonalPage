@@ -1,0 +1,31 @@
+.homeSection {
+  width: 100%;
+  margin-top: 5%;
+}
+.container {
+  width: 40%;
+  margin: 5%;
+}
+
+svg {
+  width: 12%;
+  margin: 2% 2%;
+  height: 8%x;
+  border: 1px solid #ccc;
+  padding: 2%;
+  opacity: 0.4;
+}
+
+svg:hover {
+  opacity: 1;
+}
+
+.sectionMee {
+  height: 100vh;
+  display: flex;
+  margin-top: 5%;
+}
+
+.meInfo{
+  height: 40%;
+}
